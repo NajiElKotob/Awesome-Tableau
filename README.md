@@ -1,2 +1,1 @@
-# Awesome-Tableau
-Awesome Tableau
+# Awesome Tableau
