@@ -7,3 +7,7 @@
 
 ## Viz
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
+
+
+## Datasets
+* [Sample Data](https://public.tableau.com/app/resources/sample-data)
