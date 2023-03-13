@@ -12,6 +12,7 @@
 
 ### YouTube 📺
 * [Tableau with Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/search?query=tableau) - Alex The Analyst
+* [Tableau Tim](https://www.youtube.com/@TableauTim/featured) - Tim Ngwena
 
 
 ## Viz
