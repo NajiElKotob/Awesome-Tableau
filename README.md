@@ -4,6 +4,7 @@
 * [Tableau Public](https://tableaupublic.com) - tableaupublic.com
 
 ### Tableau Help
+* [Tableau Desktop and Web Authoring Help](https://help.tableau.com/current/pro/desktop/en-us/default.htm)
 * [The Tableau Workspace](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm) | Cards and shelves, Toolbar, View, Sidebar, Status bar, etc.
 
 ## Learning
