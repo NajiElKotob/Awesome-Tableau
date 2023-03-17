@@ -19,5 +19,8 @@
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
 * [Tableau Dashboard Showcase](https://www.tableau.com/data-insights/dashboard-showcase)
 
+## Certifications
+* [Get Tableau Certified](https://www.tableau.com/learn/certification)
+
 ## Datasets
 * [Sample Data](https://public.tableau.com/app/resources/sample-data)
