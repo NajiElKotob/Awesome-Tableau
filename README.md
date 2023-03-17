@@ -13,7 +13,7 @@
 ### YouTube 📺
 * [Tableau with Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/search?query=tableau) - Alex The Analyst
 * [Tableau Tim](https://www.youtube.com/@TableauTim/featured) - Tim Ngwena
-
+* [Practical Tableau tips by Ryan Sleeper](https://www.youtube.com/watch?v=_YvpGKZpB9Q)
 
 ## Viz
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
