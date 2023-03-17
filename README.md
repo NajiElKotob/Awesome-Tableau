@@ -24,9 +24,9 @@
 ## Blogs
 * [phData](https://www.phdata.io/tableau-insights/) - phdata.io
 
-
 ## Certifications
 * [Get Tableau Certified](https://www.tableau.com/learn/certification)
+* [Tableau Certified Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
 
 ## Datasets
 * [Sample Data](https://public.tableau.com/app/resources/sample-data)
