@@ -27,6 +27,7 @@
 
 ## Certifications
 * [Get Tableau Certified](https://www.tableau.com/learn/certification)
+* [Tableau Desktop Specialist](https://www.tableau.com/learn/certification/desktop-specialist)
 * [Tableau Certified Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
 
 ## Datasets
