@@ -11,6 +11,7 @@
 * [Learn with Tableau Public](https://public.tableau.com/app/resources/learn) - tableau.com | Explore how-to videos, sample data, and community resources to help you get started or to take your skills to the next level.
 * [Free Training Videos](https://www.tableau.com/learn/training/)
 * [A Beginner's Guide to Tableau Public](https://www.tableau.com/blog/beginners-guide-tableau-public) - A step-by-step guide to get you started on your own data viz journey.
+* [Get Started with Tableau Desktop (Tutorial)](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
 * [Trailhead](https://trailhead.salesforce.com/search?keywords=tableau) - trailhead.salesforce.com
 
 ### YouTube 📺
