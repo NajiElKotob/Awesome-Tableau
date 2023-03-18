@@ -28,7 +28,7 @@
 
 ## Certifications
 * [Get Tableau Certified](https://www.tableau.com/learn/certification)
-* [Tableau Desktop Specialist](https://www.tableau.com/learn/certification/desktop-specialist)
+* [Tableau Desktop Specialist](https://www.tableau.com/learn/certification/desktop-specialist) . [Exam Guide](https://mkt.tableau.com/files/TableauDesktopSpecialist_ExamGuide.pdf)
 * [Tableau Certified Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
 
 ## Whitepaper
