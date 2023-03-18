@@ -33,6 +33,8 @@
 
 ## Whitepaper
 * [How Data Culture Fuels Business Value in Data-Driven Organizations](https://www.tableau.com/sites/default/files/2021-05/Tableau_WhitePaper_US47605621_FINAL-2.pdf)
+* [Visual Analysis Best Practices](https://www.tableau.com/sites/default/files/media/whitepaper_visual-analysis-guidebook_0.pdf) - Simple Techniques for Making Every Data Visualization Useful and Beautiful
+
 
 ## Datasets
 * [Sample Data](https://public.tableau.com/app/resources/sample-data)
