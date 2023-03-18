@@ -14,7 +14,7 @@
 * [Get Started with Tableau Desktop (Tutorial)](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm)
 * [Trailhead](https://trailhead.salesforce.com/search?keywords=tableau) - trailhead.salesforce.com
 
-### YouTube 📺
+## YouTube 📺
 * [Tableau with Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/search?query=tableau) - Alex The Analyst
 * [Tableau Tim](https://www.youtube.com/@TableauTim/featured) - Tim Ngwena
 * [Practical Tableau tips by Ryan Sleeper](https://www.youtube.com/watch?v=_YvpGKZpB9Q)
@@ -30,6 +30,9 @@
 * [Get Tableau Certified](https://www.tableau.com/learn/certification)
 * [Tableau Desktop Specialist](https://www.tableau.com/learn/certification/desktop-specialist)
 * [Tableau Certified Data Analyst](https://www.tableau.com/learn/certification/certified-data-analyst)
+
+## Whitepaper
+* [How Data Culture Fuels Business Value in Data-Driven Organizations](https://www.tableau.com/sites/default/files/2021-05/Tableau_WhitePaper_US47605621_FINAL-2.pdf)
 
 ## Datasets
 * [Sample Data](https://public.tableau.com/app/resources/sample-data)
