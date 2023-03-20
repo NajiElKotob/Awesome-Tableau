@@ -9,6 +9,8 @@
 
 ## Articles
 * [How we designed the new color palettes in Tableau 10](https://www.tableau.com/blog/colors-upgrade-tableau-10-56782)
+* [Business Intelligence (BI) Reporting](https://www.tableau.com/learn/articles/business-intelligence/reporting-basics) - A Guide To The Basics
+
 
 ## Learning
 * [Learn with Tableau Public](https://public.tableau.com/app/resources/learn) - tableau.com | Explore how-to videos, sample data, and community resources to help you get started or to take your skills to the next level.
