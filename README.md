@@ -29,6 +29,7 @@
 * [Tableau Dashboard Showcase](https://www.tableau.com/data-insights/dashboard-showcase)
 * Viz
   * [Pie Charts](https://www.tableau.com/data-insights/reference-library/visual-analytics/charts/pie-charts) - A pie chart helps organize and show data as a percentage of a whole. 
+  * [Bar Charts](https://www.tableau.com/data-insights/reference-library/visual-analytics/charts/bar-charts) - Bar charts enable us to compare numerical values like integers and percentages. 
 
 ## Blogs
 * [phData](https://www.phdata.io/tableau-insights/) - phdata.io
