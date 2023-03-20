@@ -22,6 +22,8 @@
 ## Viz
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
 * [Tableau Dashboard Showcase](https://www.tableau.com/data-insights/dashboard-showcase)
+* Viz
+  * [Pie Charts](https://www.tableau.com/data-insights/reference-library/visual-analytics/charts/pie-charts) - A pie chart helps organize and show data as a percentage of a whole. 
 
 ## Blogs
 * [phData](https://www.phdata.io/tableau-insights/) - phdata.io
