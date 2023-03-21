@@ -23,6 +23,8 @@
 * [Tableau with Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst/search?query=tableau) - Alex The Analyst
 * [Tableau Tim](https://www.youtube.com/@TableauTim/featured) - Tim Ngwena
 * [Practical Tableau tips by Ryan Sleeper](https://www.youtube.com/watch?v=_YvpGKZpB9Q)
+* [Tableau Tooltips](https://www.youtube.com/watch?v=3SuHBoRzfyQ) - Tableau Tim | Full beginners guide including Viz in Tooltips
+
 
 ## Viz
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
