@@ -24,8 +24,8 @@
 * [Tableau Tim](https://www.youtube.com/@TableauTim/featured) - Tim Ngwena
 * [Practical Tableau tips by Ryan Sleeper](https://www.youtube.com/watch?v=_YvpGKZpB9Q)
 * [Tableau Tooltips](https://www.youtube.com/watch?v=3SuHBoRzfyQ) - Tableau Tim | Full beginners guide including Viz in Tooltips
-* [Tableau Superstore Dashboard Walkthrough](https://www.youtube.com/watch?v=0BJnlfzb8Mo) - BrandonPhD
-* [Tableau Desktop Crash Course for Data Analysts ~3:45](https://www.youtube.com/watch?v=-Aj8IlC0IEA) - Tableau Tim
+* [Tableau Superstore Dashboard Walkthrough ~00:45](https://www.youtube.com/watch?v=0BJnlfzb8Mo) - BrandonPhD
+* [Tableau Desktop Crash Course for Data Analysts ~03:45](https://www.youtube.com/watch?v=-Aj8IlC0IEA) - Tableau Tim
 
 
 ## Viz
