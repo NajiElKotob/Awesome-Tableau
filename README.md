@@ -26,7 +26,7 @@
 * [Tableau Tooltips](https://www.youtube.com/watch?v=3SuHBoRzfyQ) - Tableau Tim | Full beginners guide including Viz in Tooltips
 * [Tableau Superstore Dashboard Walkthrough ~00:45](https://www.youtube.com/watch?v=0BJnlfzb8Mo) - BrandonPhD
 * [Tableau Desktop Crash Course for Data Analysts ~03:45](https://www.youtube.com/watch?v=-Aj8IlC0IEA) - Tableau Tim
-
+* [The Information Lab](https://www.youtube.com/@theinformationlab/)
 
 ## Viz
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
