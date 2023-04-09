@@ -23,6 +23,7 @@
 * [Tableau Desktop Crash Course for Data Analysts ~03:45](https://www.youtube.com/watch?v=-Aj8IlC0IEA) - Tableau Tim
 * [The Information Lab](https://www.youtube.com/@theinformationlab/)
 * [OneNumber - Tableau Experts](https://www.youtube.com/@onenumbertableau)
+* [Ynteractive Training](https://www.youtube.com/@ynteractivetraining)
 
 ## Viz 📊
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
