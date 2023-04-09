@@ -25,6 +25,7 @@
 * [OneNumber - Tableau Experts](https://www.youtube.com/@onenumbertableau)
 * [Ynteractive Training](https://www.youtube.com/@ynteractivetraining)
 * [Watch Me Viz](https://www.youtube.com/watch?v=jOa1Osra-XQ&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK) - Andy Kriebel
+* [Tableau Tips](https://www.youtube.com/watch?v=CGPy2UmozEE&list=PLX-uPHRG0cLZVuwKdK22A8aa-e0pp7l_S) - Andy Kriebel
 
 ## Viz 📊
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
