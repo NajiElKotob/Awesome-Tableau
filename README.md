@@ -36,8 +36,8 @@
   * [Bar Charts](https://www.tableau.com/data-insights/reference-library/visual-analytics/charts/bar-charts) - Bar charts enable us to compare numerical values like integers and percentages. 
 
 ## Public Tableau
- * [Dashboard Sizes](https://public.tableau.com/app/profile/kevin.flerlage/viz/WhatSizeDashboarddoYouUse/WhatSizeDashboardDoYouUse) - Kevin Flerlage
-
+* [Dashboard Sizes](https://public.tableau.com/app/profile/kevin.flerlage/viz/WhatSizeDashboarddoYouUse/WhatSizeDashboardDoYouUse) - Kevin Flerlage
+* [8 Most-Favorited Data Visualizations on Tableau Public](https://www.tableau.com/blog/8-most-favorited-data-visualizations-tableau-public)
 
 -----
 ## Articles 📰
