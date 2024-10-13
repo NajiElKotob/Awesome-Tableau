@@ -27,6 +27,8 @@
 * [Watch Me Viz](https://www.youtube.com/watch?v=jOa1Osra-XQ&list=PLX-uPHRG0cLb697Ie-ZGSObRLLNhxzJGK) - Andy Kriebel
 * [Tableau Tips](https://www.youtube.com/watch?v=CGPy2UmozEE&list=PLX-uPHRG0cLZVuwKdK22A8aa-e0pp7l_S) - Andy Kriebel
 * [Tableau Containers](https://www.youtube.com/playlist?list=PLX-uPHRG0cLbW1PuKQVzNkFrIUssS-iF7) - Andy Kriebel
+* [Tableau Full Course 2024 | Tableau Training For Beginners 📺 ~7 hours](https://www.youtube.com/watch?v=jLINToGTPko) - Simplilearn
+
 
 ## Viz 📊
 * [Viz of the Day](https://public.tableau.com/app/discover/viz-of-the-day) - See a new viz featured every weekday
